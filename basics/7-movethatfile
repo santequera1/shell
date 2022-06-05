@@ -1,2 +1,2 @@
 #!/bin/bash
-mv betty /tmp/my_firts_directory/
+mv betty /root/tmp/my_firts_directory/
