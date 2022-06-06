@@ -1,2 +1,2 @@
-#!/bin/bash
-rmdir /tmp/my_firts_directory
+#!/bin/bash/
+rmdir /tmp/my_firts_directory/
